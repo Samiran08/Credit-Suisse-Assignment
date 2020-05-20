@@ -1,0 +1,12 @@
+C:\Users\FinIQ\source\repos\Server UI\Server UI\bin\Debug\Server UI.exe.config
+C:\Users\FinIQ\source\repos\Server UI\Server UI\bin\Debug\Server UI.exe
+C:\Users\FinIQ\source\repos\Server UI\Server UI\bin\Debug\Server UI.pdb
+C:\Users\FinIQ\source\repos\Server UI\Server UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\FinIQ\source\repos\Server UI\Server UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\FinIQ\source\repos\Server UI\Server UI\obj\Debug\Server_UI.Properties.Resources.resources
+C:\Users\FinIQ\source\repos\Server UI\Server UI\obj\Debug\Server_UI.Server.resources
+C:\Users\FinIQ\source\repos\Server UI\Server UI\obj\Debug\Server UI.csproj.GenerateResource.cache
+C:\Users\FinIQ\source\repos\Server UI\Server UI\obj\Debug\Server UI.csproj.CoreCompileInputs.cache
+C:\Users\FinIQ\source\repos\Server UI\Server UI\obj\Debug\Server UI.csproj.CopyComplete
+C:\Users\FinIQ\source\repos\Server UI\Server UI\obj\Debug\Server UI.exe
+C:\Users\FinIQ\source\repos\Server UI\Server UI\obj\Debug\Server UI.pdb

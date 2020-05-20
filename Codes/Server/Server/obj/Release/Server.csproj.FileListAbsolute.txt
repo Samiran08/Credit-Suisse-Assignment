@@ -1,0 +1,10 @@
+C:\Users\FinIQ\source\repos\Server\Server\bin\Release\Server.exe.config
+C:\Users\FinIQ\source\repos\Server\Server\bin\Release\Server.exe
+C:\Users\FinIQ\source\repos\Server\Server\bin\Release\Server.pdb
+C:\Users\FinIQ\source\repos\Server\Server\bin\Release\Newtonsoft.Json.dll
+C:\Users\FinIQ\source\repos\Server\Server\bin\Release\Newtonsoft.Json.xml
+C:\Users\FinIQ\source\repos\Server\Server\obj\Release\Server.csproj.CoreCompileInputs.cache
+C:\Users\FinIQ\source\repos\Server\Server\obj\Release\Server.csproj.CopyComplete
+C:\Users\FinIQ\source\repos\Server\Server\obj\Release\Server.exe
+C:\Users\FinIQ\source\repos\Server\Server\obj\Release\Server.pdb
+C:\Users\FinIQ\source\repos\Server\Server\obj\Release\Server.csprojAssemblyReference.cache
